@@ -76,6 +76,9 @@ body{
     .repos-container{
         width: 550px;
     }
+    .repos-container .get-repos {
+        flex-direction: column;
+    }
     .repos-container .get-repos .get-button{
         width: 70px;
         font-size: .8rem;
